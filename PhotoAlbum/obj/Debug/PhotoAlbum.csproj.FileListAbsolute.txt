@@ -1,0 +1,81 @@
+D:\VisualStudioProjects\ProjectForSeptember\ProjectForSeptember\bin\Debug\ProjectForSeptember.exe.config
+D:\VisualStudioProjects\ProjectForSeptember\ProjectForSeptember\bin\Debug\ProjectForSeptember.exe
+D:\VisualStudioProjects\ProjectForSeptember\ProjectForSeptember\bin\Debug\ProjectForSeptember.pdb
+D:\VisualStudioProjects\ProjectForSeptember\ProjectForSeptember\bin\Debug\Newtonsoft.Json.dll
+D:\VisualStudioProjects\ProjectForSeptember\ProjectForSeptember\bin\Debug\Newtonsoft.Json.xml
+D:\VisualStudioProjects\ProjectForSeptember\ProjectForSeptember\obj\Debug\PhotoAlbum.csprojAssemblyReference.cache
+D:\VisualStudioProjects\ProjectForSeptember\ProjectForSeptember\obj\Debug\AlbumNameInputDialog.g.cs
+D:\VisualStudioProjects\ProjectForSeptember\ProjectForSeptember\obj\Debug\ImagesWindow.g.cs
+D:\VisualStudioProjects\ProjectForSeptember\ProjectForSeptember\obj\Debug\MainWindow.g.cs
+D:\VisualStudioProjects\ProjectForSeptember\ProjectForSeptember\obj\Debug\PhotoDisplay.g.cs
+D:\VisualStudioProjects\ProjectForSeptember\ProjectForSeptember\obj\Debug\App.g.cs
+D:\VisualStudioProjects\ProjectForSeptember\ProjectForSeptember\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\VisualStudioProjects\ProjectForSeptember\ProjectForSeptember\obj\Debug\ProjectForSeptember_MarkupCompile.cache
+D:\VisualStudioProjects\ProjectForSeptember\ProjectForSeptember\obj\Debug\ProjectForSeptember_MarkupCompile.lref
+D:\VisualStudioProjects\ProjectForSeptember\ProjectForSeptember\obj\Debug\AlbumNameInputDialog.baml
+D:\VisualStudioProjects\ProjectForSeptember\ProjectForSeptember\obj\Debug\ImagesWindow.baml
+D:\VisualStudioProjects\ProjectForSeptember\ProjectForSeptember\obj\Debug\MainWindow.baml
+D:\VisualStudioProjects\ProjectForSeptember\ProjectForSeptember\obj\Debug\PhotoDisplay.baml
+D:\VisualStudioProjects\ProjectForSeptember\ProjectForSeptember\obj\Debug\ResourceDictionaryForMainWindowButtons.baml
+D:\VisualStudioProjects\ProjectForSeptember\ProjectForSeptember\obj\Debug\ResourceDictionaryForPhotoChangingArrows.baml
+D:\VisualStudioProjects\ProjectForSeptember\ProjectForSeptember\obj\Debug\ProjectForSeptember.g.resources
+D:\VisualStudioProjects\ProjectForSeptember\ProjectForSeptember\obj\Debug\ProjectForSeptember.Properties.Resources.resources
+D:\VisualStudioProjects\ProjectForSeptember\ProjectForSeptember\obj\Debug\PhotoAlbum.csproj.GenerateResource.cache
+D:\VisualStudioProjects\ProjectForSeptember\ProjectForSeptember\obj\Debug\PhotoAlbum.csproj.CoreCompileInputs.cache
+D:\VisualStudioProjects\ProjectForSeptember\ProjectForSeptember\obj\Debug\PhotoAlbum.csproj.CopyComplete
+D:\VisualStudioProjects\ProjectForSeptember\ProjectForSeptember\obj\Debug\ProjectForSeptember.exe
+D:\VisualStudioProjects\ProjectForSeptember\ProjectForSeptember\obj\Debug\ProjectForSeptember.pdb
+C:\Users\Evan\Desktop\PhotoAlbum project\PhotoAlbum\obj\Debug\PhotoAlbum.csprojAssemblyReference.cache
+C:\Users\Evan\Desktop\PhotoAlbum project\PhotoAlbum\obj\Debug\AlbumNameInputDialog.g.cs
+C:\Users\Evan\Desktop\PhotoAlbum project\PhotoAlbum\obj\Debug\ImagesWindow.g.cs
+C:\Users\Evan\Desktop\PhotoAlbum project\PhotoAlbum\obj\Debug\MainWindow.g.cs
+C:\Users\Evan\Desktop\PhotoAlbum project\PhotoAlbum\obj\Debug\PhotoDisplay.g.cs
+C:\Users\Evan\Desktop\PhotoAlbum project\PhotoAlbum\obj\Debug\App.g.cs
+C:\Users\Evan\Desktop\PhotoAlbum project\PhotoAlbum\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Evan\Desktop\PhotoAlbum project\PhotoAlbum\obj\Debug\PhotoAlbum_MarkupCompile.cache
+C:\Users\Evan\Desktop\PhotoAlbum project\PhotoAlbum\obj\Debug\PhotoAlbum_MarkupCompile.lref
+C:\Users\Evan\Desktop\PhotoAlbum project\PhotoAlbum\bin\Debug\PhotoAlbum.exe.config
+C:\Users\Evan\Desktop\PhotoAlbum project\PhotoAlbum\bin\Debug\PhotoAlbum.exe
+C:\Users\Evan\Desktop\PhotoAlbum project\PhotoAlbum\bin\Debug\PhotoAlbum.pdb
+C:\Users\Evan\Desktop\PhotoAlbum project\PhotoAlbum\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Evan\Desktop\PhotoAlbum project\PhotoAlbum\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Evan\Desktop\PhotoAlbum project\PhotoAlbum\obj\Debug\AlbumNameInputDialog.baml
+C:\Users\Evan\Desktop\PhotoAlbum project\PhotoAlbum\obj\Debug\ImagesWindow.baml
+C:\Users\Evan\Desktop\PhotoAlbum project\PhotoAlbum\obj\Debug\MainWindow.baml
+C:\Users\Evan\Desktop\PhotoAlbum project\PhotoAlbum\obj\Debug\PhotoDisplay.baml
+C:\Users\Evan\Desktop\PhotoAlbum project\PhotoAlbum\obj\Debug\ResourceDictionaryForMainWindowButtons.baml
+C:\Users\Evan\Desktop\PhotoAlbum project\PhotoAlbum\obj\Debug\ResourceDictionaryForPhotoChangingArrows.baml
+C:\Users\Evan\Desktop\PhotoAlbum project\PhotoAlbum\obj\Debug\PhotoAlbum.g.resources
+C:\Users\Evan\Desktop\PhotoAlbum project\PhotoAlbum\obj\Debug\PhotoAlbum.Properties.Resources.resources
+C:\Users\Evan\Desktop\PhotoAlbum project\PhotoAlbum\obj\Debug\PhotoAlbum.csproj.GenerateResource.cache
+C:\Users\Evan\Desktop\PhotoAlbum project\PhotoAlbum\obj\Debug\PhotoAlbum.csproj.CoreCompileInputs.cache
+C:\Users\Evan\Desktop\PhotoAlbum project\PhotoAlbum\obj\Debug\PhotoAlbum.csproj.CopyComplete
+C:\Users\Evan\Desktop\PhotoAlbum project\PhotoAlbum\obj\Debug\PhotoAlbum.exe
+C:\Users\Evan\Desktop\PhotoAlbum project\PhotoAlbum\obj\Debug\PhotoAlbum.pdb
+D:\VisualStudioProjects\PhotoAlbum project\PhotoAlbum\bin\Debug\PhotoAlbum.exe.config
+D:\VisualStudioProjects\PhotoAlbum project\PhotoAlbum\bin\Debug\PhotoAlbum.exe
+D:\VisualStudioProjects\PhotoAlbum project\PhotoAlbum\bin\Debug\PhotoAlbum.pdb
+D:\VisualStudioProjects\PhotoAlbum project\PhotoAlbum\bin\Debug\Newtonsoft.Json.dll
+D:\VisualStudioProjects\PhotoAlbum project\PhotoAlbum\bin\Debug\Newtonsoft.Json.xml
+D:\VisualStudioProjects\PhotoAlbum project\PhotoAlbum\obj\Debug\PhotoAlbum.csprojAssemblyReference.cache
+D:\VisualStudioProjects\PhotoAlbum project\PhotoAlbum\obj\Debug\AlbumNameInputDialog.g.cs
+D:\VisualStudioProjects\PhotoAlbum project\PhotoAlbum\obj\Debug\ImagesWindow.g.cs
+D:\VisualStudioProjects\PhotoAlbum project\PhotoAlbum\obj\Debug\MainWindow.g.cs
+D:\VisualStudioProjects\PhotoAlbum project\PhotoAlbum\obj\Debug\PhotoDisplay.g.cs
+D:\VisualStudioProjects\PhotoAlbum project\PhotoAlbum\obj\Debug\App.g.cs
+D:\VisualStudioProjects\PhotoAlbum project\PhotoAlbum\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\VisualStudioProjects\PhotoAlbum project\PhotoAlbum\obj\Debug\PhotoAlbum_MarkupCompile.cache
+D:\VisualStudioProjects\PhotoAlbum project\PhotoAlbum\obj\Debug\PhotoAlbum_MarkupCompile.lref
+D:\VisualStudioProjects\PhotoAlbum project\PhotoAlbum\obj\Debug\AlbumNameInputDialog.baml
+D:\VisualStudioProjects\PhotoAlbum project\PhotoAlbum\obj\Debug\ImagesWindow.baml
+D:\VisualStudioProjects\PhotoAlbum project\PhotoAlbum\obj\Debug\MainWindow.baml
+D:\VisualStudioProjects\PhotoAlbum project\PhotoAlbum\obj\Debug\PhotoDisplay.baml
+D:\VisualStudioProjects\PhotoAlbum project\PhotoAlbum\obj\Debug\ResourceDictionaryForMainWindowButtons.baml
+D:\VisualStudioProjects\PhotoAlbum project\PhotoAlbum\obj\Debug\ResourceDictionaryForPhotoChangingArrows.baml
+D:\VisualStudioProjects\PhotoAlbum project\PhotoAlbum\obj\Debug\PhotoAlbum.g.resources
+D:\VisualStudioProjects\PhotoAlbum project\PhotoAlbum\obj\Debug\PhotoAlbum.Properties.Resources.resources
+D:\VisualStudioProjects\PhotoAlbum project\PhotoAlbum\obj\Debug\PhotoAlbum.csproj.GenerateResource.cache
+D:\VisualStudioProjects\PhotoAlbum project\PhotoAlbum\obj\Debug\PhotoAlbum.csproj.CoreCompileInputs.cache
+D:\VisualStudioProjects\PhotoAlbum project\PhotoAlbum\obj\Debug\PhotoAlbum.csproj.CopyComplete
+D:\VisualStudioProjects\PhotoAlbum project\PhotoAlbum\obj\Debug\PhotoAlbum.exe
+D:\VisualStudioProjects\PhotoAlbum project\PhotoAlbum\obj\Debug\PhotoAlbum.pdb
